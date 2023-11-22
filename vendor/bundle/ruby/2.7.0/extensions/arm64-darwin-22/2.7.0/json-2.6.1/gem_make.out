@@ -1,0 +1,13 @@
+current directory: /Users/christianjeeyamba/Documents/Appetiser/myMovies/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/christianjeeyamba/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/christianjeeyamba/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20231122-62443-pyoy5h.rb extconf.rb
+creating Makefile
+
+current directory: /Users/christianjeeyamba/Documents/Appetiser/myMovies/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/christianjeeyamba/Documents/Appetiser/myMovies/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/christianjeeyamba/Documents/Appetiser/myMovies/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
